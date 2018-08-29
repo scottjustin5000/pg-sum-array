@@ -1,0 +1,4 @@
+# sum_array extension
+comment = 'sum the contexts of a numeric array'
+default_version = '0.0.1'
+relocatable = true
